@@ -85,6 +85,9 @@ A fun word replacement game where users provide random words that are inserted i
 - User input handling
 - String manipulation
 
+### Code Link
+- [Mad Libs Python Project Code](Assignments%201%20to%206/Project%201_%20Mad%20Libs%20Python%20Project/main.py)
+
 ## Project 2: Guess the Number Game (Computer)
 
 A game where the computer tries to guess a number that the user is thinking of, using binary search concepts.
@@ -93,6 +96,9 @@ A game where the computer tries to guess a number that the user is thinking of, 
 - Smart hints system
 - Input validation
 - Score tracking
+
+### Code Link
+- [Guess the Number Game (Computer) Code](Assignments%201%20to%206/Project%202%20Guess%20the%20Number%20Game%20(Computer)/main.py)
 
 ## Project 3: Guess the Number Game (User)
 
@@ -103,6 +109,9 @@ A game where the user attempts to guess a randomly generated number by the compu
 - High score tracking
 - User-friendly interface
 
+### Code Link
+- [Guess the Number Game (User) Code](Assignments%201%20to%206/Project%203%20Guess%20the%20Number%20Game%20(User)/main.py)
+
 ## Project 4: Rock, Paper, Scissors Python Project
 
 A command-line implementation of the classic Rock-Paper-Scissors game where the user plays against the computer.
@@ -111,6 +120,9 @@ A command-line implementation of the classic Rock-Paper-Scissors game where the 
 - Score tracking
 - Visual feedback
 - User interaction
+
+### Code Link
+- [Rock, Paper, Scissors Python Project Code](Assignments%201%20to%206/Project%204%20Rock,%20Paper,%20Scissors%20Python%20Project/app.py)
 
 ## Project 5: Hangman Python Project
 
@@ -121,6 +133,9 @@ A word guessing game where the user guesses letters in a hidden word, with visua
 - Loops and lists
 - User input handling
 
+### Code Link
+- [Hangman Python Project Code](Assignments%201%20to%206/Project%205%20Hangman%20Python%20Project/app.py)
+
 ## Project 6: Countdown Timer Python Project
 
 A timer application that counts down from a specified number of seconds to zero.
@@ -129,6 +144,9 @@ A timer application that counts down from a specified number of seconds to zero.
 - Time-based functions
 - User input handling
 - Visual countdown display
+
+### Code Link
+- [Countdown Timer Python Project Code](Assignments%201%20to%206/Project%206%20Countdown%20Timer%20Python%20Project/main.py)
 
 ## Contributing
 
